@@ -49,7 +49,7 @@ It is possible to install and use this module without custom functions, but I st
 		)
 	)
 
-	// VirtualSortFieldSortedDecending ( field ; sortID )
+	// VirtualSortFieldSortedDescending ( field ; sortID )
 	not IsEmpty (
 		FilterValues (
 			GetFieldName ( field ) & " DESC" ;
