@@ -4,7 +4,7 @@ Virtual Sort lets users sort records in FileMaker portals and found sets by any 
 
 ## Attributions
 
-This module is based on a technique by [John Ahn][1]..
+This module is based on a technique by [John Ahn][1].
 
 [1]: http://www.filemakerhacks.com/?p=5357 "FM 12 ExecuteSQL 'Unconference' Session"
 
