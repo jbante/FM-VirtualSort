@@ -52,7 +52,7 @@ It is possible to install and use this module without custom functions, but I st
 	// VirtualSortFieldSortedDescending ( field ; sortID )
 	not IsEmpty (
 		FilterValues (
-			GetFieldName ( field ) & " DESC" ;
+			GetFieldName ( field ) & "::DESC" ;
 			$$VirtualSort.ORDER_BY[sortID]
 		)
 	)
