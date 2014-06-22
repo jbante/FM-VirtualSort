@@ -2,6 +2,11 @@
 
 Virtual Sort lets users sort records in FileMaker portals and found sets by any combination of fields they choose.
 
+## Version History
+
+1.0.0 - 2013-07-17 - Initial Release
+1.1.0 - 2014-06-19 - Improved error reporting
+
 ## Attributions
 
 This module is based on a technique by [John Ahn][1].
@@ -75,4 +80,4 @@ For most purposes, the Virtual Sort by SQL scripts will provide ample sort flexi
 
 ## License
 
-Anyone may do anything with this software. There is no warranty.
+Anyone may do anything with this software for any purpose. There is no warranty.
